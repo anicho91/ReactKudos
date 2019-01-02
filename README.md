@@ -4,10 +4,10 @@ This app allows the user to give kudos to users and have them rendered on the pa
 
 ## Technologies Used
 
-React
-MDBReact
-CSS
-NodeJS
-Express
+React<br>
+MDBReact<br>
+CSS<br>
+NodeJS<br>
+Express<br>
 MongoDB
 
